@@ -1,0 +1,24 @@
+{
+  "name": "memes-with-no-ads",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottenriquez/memes-with-no-ads.git"
+  },
+  "author": "Scottie Enriquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottenriquez/memes-with-no-ads/issues"
+  },
+  "homepage": "https://github.com/scottenriquez/memes-with-no-ads#readme",
+  "dependencies": {
+    "instagram-web-api": "^2.2.2"
+  }
+}
