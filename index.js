@@ -1,3 +1,2 @@
-import { fetchProfile } from './services/instagram.js';
-
-fetchProfile();
+import { fetchPhotosForUser, uploadPhoto } from './services/instagram.js';
+import { downloadRemoteResource } from './services/download.js';

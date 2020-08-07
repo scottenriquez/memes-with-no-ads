@@ -1,8 +1,8 @@
-let getInstagramUsername = () => {
+const getInstagramUsername = () => {
   return process.env.INSTAGRAM_USERNAME;
 }
 
-let getInstagramPassword = () => {
+const getInstagramPassword = () => {
   return process.env.INSTAGRAM_PASSWORD;
 }
 
